@@ -1,4 +1,9 @@
-## Hi there 👋
+![Garrus bailando](https://media1.tenor.com/m/eHv9NHLqIFkAAAAC/mass-effect-turian.gif)
+
+_hola, esto vendría a ser una presentación_
+
+tengo [un repositorio con cosas de la facultad](https://github.com/maribvidal/Facultad)<br />
+y lo demás es un trash dump de código
 
 <!--
 **maribvidal/maribvidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
