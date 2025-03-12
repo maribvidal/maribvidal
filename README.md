@@ -5,4 +5,4 @@ hola, esto es una presentación
 tengo [un repositorio con cosas de la facultad](https://github.com/maribvidal/Facultad)<br />
 y lo demás es un trash dump de código
 
-<! ![Garrus bailando](https://media1.tenor.com/m/eHv9NHLqIFkAAAAC/mass-effect-turian.gif) ¡>
+![Garrus bailando](https://media1.tenor.com/m/eHv9NHLqIFkAAAAC/mass-effect-turian.gif)
